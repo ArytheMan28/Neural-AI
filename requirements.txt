@@ -5,3 +5,4 @@ python-dotenv
 cloudinary
 sightengine
 elevenlabs
+gunicorn
