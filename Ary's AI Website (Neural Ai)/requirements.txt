@@ -1,2 +1,7 @@
-Flask
-gunicorn
+flask
+openai
+requests
+python-dotenv
+cloudinary
+sightengine
+elevenlabs
